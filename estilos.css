@@ -8,43 +8,43 @@
     border-radius: 60%;
     border:solid 5px;
     border-color: darkgoldenrod;
-    width: 300px;
-    height: 400px;
+    width: 200px;
+    height: 300px;
         
 }
 
 .titulos{
     font-style: italic;
-    font-size: 40px;
+    font-size: 30px;
     color: darkred;
     font-style: oblique;
 }
 
 #dimensionBiografia{
    
-    font-size: 22px;
+    font-size: 15px;
     text-align: center;
 }
 
 #dimensionVida{
-    width: 500px;
-    height: 800px;
-    font-size: 20px;
+    width: 400px;
+    height: 700px;
+    font-size: 15px;
     text-align: center;
 }
 
 .colorLi{
-    font-size: 30px;
+    font-size: 20px;
     color: black;
 }
 
 li{
     color: darkred;
-    font-size: 30px;
+    font-size: 20px;
     text-align: left;
 }
 
 .tamaño{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
 }
