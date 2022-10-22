@@ -1,5 +1,5 @@
 *{
-    background-color: gray;
+    background-color: lightblue;
     color: darkblue;
     text-align: center;
 }
@@ -18,17 +18,6 @@
     font-size: 40px;
     color: darkred;
     font-style: oblique;
-}
-
-h2{
-    color: black;
-    font-size: 30px;
-}
-
-#dimensionAcerca{
-   
-    font-size: 22px;
-    text-align: center;
 }
 
 #dimensionBiografia{
@@ -50,7 +39,7 @@ h2{
 }
 
 li{
-    color: white;
+    color: darkred;
     font-size: 30px;
     text-align: left;
 }
